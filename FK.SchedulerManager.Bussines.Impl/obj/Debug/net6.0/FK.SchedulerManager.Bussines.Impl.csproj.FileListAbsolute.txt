@@ -1,0 +1,12 @@
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\bin\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.deps.json
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\bin\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.dll
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\bin\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.pdb
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.AssemblyInfo.cs
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.dll
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\refint\FK.SchedulerManager.Bussines.Impl.dll
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\FK.SchedulerManager.Bussines.Impl.pdb
+C:\Users\frank\source\repos\FK.SchudelerManager\FK.SchedulerManager.Bussines.Impl\obj\Debug\net6.0\ref\FK.SchedulerManager.Bussines.Impl.dll
